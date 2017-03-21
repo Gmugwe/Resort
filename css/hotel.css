@@ -1,0 +1,29 @@
+h1 {
+  color: #000000;
+  text-align: left;
+}
+
+h2 {
+  font-style: italic;
+  text-align: left;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: left;
+}
+ol {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: left;
+}
+
+body{
+  background-color: #F64EAD;
+}
